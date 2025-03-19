@@ -1,0 +1,7 @@
+﻿  Combi.cpp
+  Salesman.cpp
+  lab3_mytry.cpp
+D:\проекты 4 сем\мат прога\лаб 3\lab3_mytry\Salesman.cpp(41,11): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\проекты 4 сем\мат прога\лаб 3\lab3_mytry\Salesman.cpp(49,22): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода...
+  lab3_mytry.vcxproj -> D:\проекты 4 сем\мат прога\лаб 3\lab3_mytry\x64\Debug\lab3_mytry.exe
