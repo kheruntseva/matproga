@@ -1,0 +1,7 @@
+﻿  BFS.cpp
+  DFS.cpp
+  Graph.cpp
+  Graphs_Optimization.cpp
+D:\проекты 4 сем\мат прога\лаб 6\lab06\Graphs_Optimization.cpp(87,28): warning C4804: <: небезопасное использование типа "bool" в операции
+  Создание кода...
+  lab06.vcxproj -> D:\проекты 4 сем\мат прога\лаб 6\lab06\x64\Debug\lab06.exe
